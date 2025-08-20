@@ -97,7 +97,7 @@ Berikut adalah langkah-langkah untuk menjalankan proyek ini di lingkungan lokal 
 
 ### **Akun Default**
 * **Username**: `admin`
-* **Password**: `admin123`
+* **Password**: `admin1234`
 
 ## Tantangan Selama Pengerjaan
 
